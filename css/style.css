@@ -1,0 +1,15 @@
+.panda-bg-carousel {
+    background-color: #f8e5e7;
+}
+
+.panda-bg-btn {
+    background-color: #e83e8c;
+    padding: 8px 25px;
+}
+
+.panda-prev-icon,
+.panda-next-icon {
+    font-weight: bold;
+    font-size: 1.5rem;
+    color: #e83e8c;
+}
